@@ -1,1 +1,25 @@
-The facilities location selection, is an important research area of many scientific fields. Often, the selections of the optimal location and the coverage problems are computationally difficult and cannot be solved by exhaustive methods. Thus, no exact solutions are expected to be found. Therefore, many different ways of solving these problems are important, due to the effectiveness of the solutions they find.The aim of this project, is to present the problems of covering analysis, and through their modeling, to simplify their complexity, in optimizing the location and allocation of facilities. In the development of the thesis, are being presented various problems of location installation, and various ways of solving them, mainly by converting them into coverage models. The whole effort can be considered as a guide for an analysis and solution of basic positioning / distribution problems, limited to network vertices.In the project are mentioned the basic mathematical areas, which are the basis of the coverage problems, and are related to the location / allocation problems. Optimization problems are being solved by developing scenarios, with different requirements and limitations. The P-center problem is being solved with the appropriate code development, which implements a greedy approximation algorithm with good results. A review of the relevant literature for the various location / allocation problems is being made, categorized according to the method of problem solving. Finally, research papers are presented, which have been applied in various fields, such as logistics, wireless networks, security, etc.
+The facilities location selection, is an important research area of
+many scientific fields. Often, the selections of the optimal location 
+and the coverage problems are computationally difficult and cannot be 
+solved by exhaustive methods. Thus, no exact solutions are expected 
+to be found. Therefore, many different ways of solving these problems 
+are important, due to the effectiveness of the solutions they find.
+The aim of this project, is to present the problems of covering 
+analysis, and through their modeling, to simplify their complexity, 
+in optimizing the location and allocation of facilities. In the 
+development of the thesis, are being presented various problems of 
+location installation, and various ways of solving them, mainly by 
+converting them into coverage models. The whole effort can be 
+considered as a guide for an analysis and solution of basic 
+positioning / distribution problems, limited to network vertices.
+In the project are mentioned the basic mathematical areas, which 
+are the basis of the coverage problems, and are related to the 
+location / allocation problems. Optimization problems are being 
+solved by developing scenarios, with different requirements and 
+limitations. The P-center problem is being solved with the 
+appropriate code development, which implements a greedy 
+approximation algorithm with good results. A review of the relevant 
+literature for the various location / allocation problems is being 
+made, categorized according to the method of problem solving. 
+Finally, research papers are presented, which have been applied in 
+various fields, such as logistics, wireless networks, security, etc.
